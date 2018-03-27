@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522183525 source:c:\test\beaudroit\clase 3 prototipo2\main.c
+	<stdio.h>
+	<stdlib.h>
+

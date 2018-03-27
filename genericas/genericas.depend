@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522191376 source:c:\test\beaudroit\genericas\main.c
+	<stdio.h>
+	<stdlib.h>
+
