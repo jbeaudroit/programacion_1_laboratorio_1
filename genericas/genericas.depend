@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1522191376 source:c:\test\beaudroit\genericas\main.c
+1522784911 source:c:\test\beaudroit\genericas\main.c
 	<stdio.h>
 	<stdlib.h>
+	"funciones.h"
+
+1522784911 source:c:\test\beaudroit\genericas\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1522784911 c:\test\beaudroit\genericas\funciones.h
 
